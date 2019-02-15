@@ -354,9 +354,3 @@ table.button table td {
 
 .no-bottom-padding {
   padding-bottom: 0 !important; }
-
-sup {
-  font-size: 12px;
-  line-height: 12px;
-  display: inline-block;
-  margin-left: 4px; }
